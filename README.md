@@ -15,7 +15,7 @@
 :books: Formado em Sistemas de Informação pela UNIVEM
  
 
-## About me
+## Mais sobre mim
 
 [![Linkedin Badge](https://www.linkedin.com/in/guilherme-plaza-652127a3/)
 
