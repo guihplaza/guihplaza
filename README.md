@@ -6,8 +6,8 @@
 
  
 
-:computer: Atualmente sou desenvolvedor
-https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+:computer: Atualmente sou desenvolvedor:
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 :house_with_garden: Sou de Marília-SP
