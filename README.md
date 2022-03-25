@@ -1,4 +1,9 @@
-### Hi there 👋
+import Desenvolvedor from 'guihplaza';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Guilherme Plaza Galoro';
+  area    = 'Desenvolvimento';
+} 👋
 
 <!--
 **guihplaza/guihplaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
