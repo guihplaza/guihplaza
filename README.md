@@ -8,6 +8,8 @@
 
 :computer: Desenvolvedor C# (ASP NET Forms, MVC, NET CORE), PHP e WordPress;
 
+☁️: Banco de Dados: SQLServer, Oracle, PostgreSQL e MySQL
+
 :house_with_garden: Sou de Marília-SP
 
 :books: Formado em Sistemas de Informação pela UNIVEM
