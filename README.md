@@ -6,9 +6,9 @@
 
  
 
-:computer: I'm Back-End Developer!
+:computer: Desenvolvedor C# (ASP NET Forms, MVC, NET CORE), PHP e WordPress; 
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Sou de Marília-SP
 
 :books: I’m currently learning everything.
 
