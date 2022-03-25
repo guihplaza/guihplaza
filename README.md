@@ -10,11 +10,12 @@
 
 :house_with_garden: Sou de Marília-SP
 
+:books: Formado em Sistemas de Informação pela UNIVEM
  
 
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://www.linkedin.com/in/guilherme-plaza-652127a3/)
 
 - Obrigado Pela Visita.
 
