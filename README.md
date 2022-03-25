@@ -6,7 +6,9 @@
 
  
 
-:computer: Desenvolvedor C# (ASP NET Forms, MVC, NET CORE), PHP e WordPress; 
+:computer: Atualmente sou desenvolvedor
+https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+
 
 :house_with_garden: Sou de Marília-SP
 
