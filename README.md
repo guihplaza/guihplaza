@@ -6,9 +6,7 @@
 
  
 
-:computer: Atualmente sou desenvolvedor:
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+:computer: Desenvolvedor C# (ASP NET Forms, MVC, NET CORE), PHP e WordPress;
 
 :house_with_garden: Sou de Marília-SP
 
@@ -17,7 +15,9 @@
 
 ## Mais sobre mim
 
-[![Linkedin Badge](https://www.linkedin.com/in/guilherme-plaza-652127a3/)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) guihplaza@gmail.com
+
+[![imagem](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - Obrigado Pela Visita.
 
