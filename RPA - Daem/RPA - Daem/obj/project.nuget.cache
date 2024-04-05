@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkclCE+CnJBeJPBdGneMp/8x5QsUJlqIl5QRC8qZMZK+h+SpJP3qObDCM0oLEHLT1fQ/6xAe0n78c45Mc04FSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guihp\\source\\repos\\DaemAttack\\DaemAttack\\RPADaem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guihp\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512",
+    "C:\\Users\\guihp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\guihp\\.nuget\\packages\\selenium.support\\4.19.0\\selenium.support.4.19.0.nupkg.sha512",
+    "C:\\Users\\guihp\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
